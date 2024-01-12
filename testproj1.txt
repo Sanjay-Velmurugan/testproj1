@@ -2,13 +2,13 @@ It's for my 1st experience and learning how to upload a file in github
 
 1. Go to your profile touch the + symbol followed by that touch create new repository
 
-2. A screen will open give a name to ypur repositary and touch initialize with a README 
+2. A screen will open give it a name to that repositary and touch initialize with a README 
 
 3. Your repositary will be open
 
 4. Select upload file followed by that select choose your file
 
-5. Select the files you want to upload, if you want type your message for your reference
+5. Select the files you want to upload, if you want some messages type your message for your reference
 
 6. Click commit changes button
 
